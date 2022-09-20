@@ -1,0 +1,2 @@
+Este documento es la primera prueba de guardado de versiones mediante GIT V1.
+Intentaresmos a la largo del codigo ir ingresando datos del participante.
