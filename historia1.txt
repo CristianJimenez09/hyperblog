@@ -1,5 +1,5 @@
 Proyecto de nuevpo de quien soy
 Mi solo a manera de prueba para el Proyecto
-para este caso adiciono la edad mia que son 28 años.
+para este caso adiciono la edad mia que son 29 años. En pocos meses.
 Naci en la cuidad de Manizales Colombia, Ing de Telecomunicaciones.
 Hoy es un programador de pyhton
