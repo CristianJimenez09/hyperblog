@@ -1,3 +1,4 @@
 Proyecto de nuevpo de quien soy
 Mi solo a manera de prueba para el Proyecto
-para este caso adiciono la edad mia que son 28 anos.
+para este caso adiciono la edad mia que son 28 años.
+Naci en la cuidad de Manizales Colombia, Ing de Telecomunicaciones.
