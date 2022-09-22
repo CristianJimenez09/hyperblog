@@ -1,4 +1,0 @@
-Este documento es la segunda prueba de guardado de versiones mediante GIT V2.
-Intentaresmos a la largo del codigo ir ingresando datos del participante.
-Edad 28 participante Cristian Jimenez sexo hombre
-Ubicado en la cuidad de Bogota
