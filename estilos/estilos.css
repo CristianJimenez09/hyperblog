@@ -25,6 +25,13 @@ body
     vertical-align: middle;
 }
 
+#Logo2
+
+{
+    width: 220px;
+    font-variation-settings:initial;
+}
+
 #cabecera #tagline
 {
     padding: 0 0 0 1em;
