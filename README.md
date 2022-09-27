@@ -1,5 +1,5 @@
 <div align="center">
-	<h1> Manejo profesional de Git Y GitHub </h1>
+	<h1> Manejo profesional de Git Y GitHub :interrobang: </h1>
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 	</a>
 </div>
 
-### About
+### About :trident:
 
 1. Creacion de pagina web incial para el manejo de diferentes versiones sobre Git.
 2. Practica de consolona para utilizar Git, Tipos de comandos, ramas, Pull, Push, y demas elementos.
