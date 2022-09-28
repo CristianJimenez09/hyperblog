@@ -40,3 +40,4 @@ Licencia de desarrollo realizada por Cristian Jimenez License - see the
 ### Agradecimientos 
 
 A todos el Team Platzi, por las herramienta generadas durante este curso.
+Agradecimiento a mi mismo por la labor realizada durante el curso
