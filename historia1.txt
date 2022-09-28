@@ -5,3 +5,4 @@ Naci en la cuidad de Manizales Colombia, Ing de Telecomunicaciones.
 Este cambio se esta realizando desde The Branch Main , first change!!!!
 Adiciono un comentario como primer eventualidad en la nueva rama, para realizar el {rebase} /// branch Urgencychange1
 Hoy es un programador de pyhton
+Add Footer in the fangpages, Second Change for {rebase} //// Branch UrgencyChange2
