@@ -38,3 +38,5 @@ Licencia de desarrollo realizada por Cristian Jimenez License - see the
 [See more about me](https://www.linkedin.com/in/cristian-david-jimenez-valencia-ab4098165) for details.
 
 ### Agradecimientos 
+
+A todos el Team Platzi, por las herramienta generadas durante este curso.
