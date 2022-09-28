@@ -41,3 +41,4 @@ Licencia de desarrollo realizada por Cristian Jimenez License - see the
 
 A todos el Team Platzi, por las herramienta generadas durante este curso.
 Agradecimiento a mi mismo por la labor realizada durante el curso
+Por ultimo agradecimiento a ZTE, sin ellos no me hubiese animado a estudiar algo mas, para salir del hueco.
