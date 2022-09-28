@@ -3,6 +3,7 @@ Mi solo a manera de prueba para el Proyecto
 para este caso adiciono la edad mia que son 29 años. En pocos meses.
 Naci en la cuidad de Manizales Colombia, Ing de Telecomunicaciones.
 Experimento 1
+Experimento 2
 Master 1
 Master 2
 Hoy es un programador de pyhton
